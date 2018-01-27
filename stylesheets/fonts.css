@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "DINPro";
+  src: url(../fonts/DINPro.otf);
+}
+
+@font-face {
+  font-family: "Reforma Grotesk";
+  src: url(../fonts/Reforma-Grotesk-49.otf);
+}
+
+@font-face {
+  font-family: "Reforma Grotesk";
+  font-weight: bold;
+  src: url(../fonts/Reforma-Grotesk-69.otf);
+}
