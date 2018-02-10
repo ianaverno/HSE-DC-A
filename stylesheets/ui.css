@@ -32,3 +32,21 @@
   color: white;
   background-image: linear-gradient(to bottom, #2bd42b 2%,#2bd42b 7%,#01a401 95%,#006900 100%);
 }
+
+
+@media all and (max-width: 1180px) and (min-width: 911px) {
+  .small {
+    height: 30px;
+    width: 180px;
+    font-size: 11px;
+    line-height: 30px;
+  }
+
+  .large {
+    width: 214px;
+    height: 36px;
+    font-size: 12px;
+    line-height: 36px;
+    font-weight: bold;
+  }
+}
