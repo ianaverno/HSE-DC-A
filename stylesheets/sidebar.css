@@ -5,6 +5,7 @@
   padding: 30px;
   width: 300px;
   opacity: .1;
+  -webkit-transition: all 200ms ease-out;
   transition: all 200ms ease-out;
   font-size: 16px;
   z-index: 1;
